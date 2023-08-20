@@ -1,0 +1,61 @@
+id_responsable,id_empleado,id_animal,descripcion_responsabilidad,rutina
+1,86,144,Debe proporcionar alimento y agua adecuados,Paseo diario
+2,145,227,Proporcionar atención veterinaria regular,Juego de pelota
+3,106,56,Debe proporcionar alimento y agua adecuados,Caza de juguetes
+4,55,126,Proporcionar atención veterinaria regular,Juego de pelota
+5,135,194,Proporcionar atención veterinaria regular,Caza de juguetes
+6,87,390,Debe proporcionar alimento y agua adecuados,Caza de juguetes
+7,81,276,Mantener un entorno limpio y saludable,Caza de juguetes
+8,135,466,Proporcionar ejercicio y estimulación mental,Paseo diario
+9,141,18,Mantener un entorno limpio y saludable,Paseo diario
+10,7,439,Debe proporcionar alimento y agua adecuados,Paseo diario
+11,100,65,Debe proporcionar alimento y agua adecuados,Caza de juguetes
+12,66,318,Proporcionar atención veterinaria regular,Caza de juguetes
+13,17,360,Debe proporcionar alimento y agua adecuados,Juego de pelota
+14,38,335,Proporcionar atención veterinaria regular,Caminata en el parque
+15,142,143,Proporcionar ejercicio y estimulación mental,Juego de pelota
+16,143,395,Mantener un entorno limpio y saludable,Juego de pelota
+17,50,237,Proporcionar ejercicio y estimulación mental,Paseo diario
+18,136,322,Proporcionar atención veterinaria regular,Caza de juguetes
+19,14,296,Brindar un refugio seguro y cómodo,Juego de pelota
+20,107,73,Mantener un entorno limpio y saludable,Caminata en el parque
+21,90,180,Mantener un entorno limpio y saludable,Paseo diario
+22,144,330,Proporcionar ejercicio y estimulación mental,Caminata en el parque
+23,73,416,Proporcionar ejercicio y estimulación mental,Caza de juguetes
+24,24,362,Mantener un entorno limpio y saludable,Entrenamiento de obediencia
+25,15,91,Brindar un refugio seguro y cómodo,Caza de juguetes
+26,139,1,Proporcionar ejercicio y estimulación mental,Caminata en el parque
+27,147,274,Mantener un entorno limpio y saludable,Juego de pelota
+28,92,264,Proporcionar atención veterinaria regular,Caza de juguetes
+29,58,63,Debe proporcionar alimento y agua adecuados,Caza de juguetes
+30,107,240,Mantener un entorno limpio y saludable,Caza de juguetes
+31,142,429,Debe proporcionar alimento y agua adecuados,Caminata en el parque
+32,44,293,Proporcionar ejercicio y estimulación mental,Juego de pelota
+33,21,245,Brindar un refugio seguro y cómodo,Entrenamiento de obediencia
+34,146,473,Proporcionar atención veterinaria regular,Caza de juguetes
+35,63,54,Debe proporcionar alimento y agua adecuados,Caminata en el parque
+36,140,486,Proporcionar atención veterinaria regular,Caza de juguetes
+37,9,12,Brindar un refugio seguro y cómodo,Entrenamiento de obediencia
+38,106,301,Proporcionar ejercicio y estimulación mental,Paseo diario
+39,33,13,Debe proporcionar alimento y agua adecuados,Caminata en el parque
+40,60,15,Debe proporcionar alimento y agua adecuados,Paseo diario
+41,102,172,Mantener un entorno limpio y saludable,Caza de juguetes
+42,48,162,Debe proporcionar alimento y agua adecuados,Caza de juguetes
+43,37,386,Debe proporcionar alimento y agua adecuados,Caminata en el parque
+44,115,312,Proporcionar ejercicio y estimulación mental,Juego de pelota
+45,89,388,Proporcionar ejercicio y estimulación mental,Paseo diario
+46,21,457,Mantener un entorno limpio y saludable,Caza de juguetes
+47,92,182,Mantener un entorno limpio y saludable,Entrenamiento de obediencia
+48,67,462,Mantener un entorno limpio y saludable,Entrenamiento de obediencia
+49,26,262,Mantener un entorno limpio y saludable,Caza de juguetes
+50,126,139,Proporcionar ejercicio y estimulación mental,Caminata en el parque
+51,73,289,Proporcionar atención veterinaria regular,Paseo diario
+52,100,209,Debe proporcionar alimento y agua adecuados,Entrenamiento de obediencia
+53,110,132,Brindar un refugio seguro y cómodo,Juego de pelota
+54,68,36,Brindar un refugio seguro y cómodo,Caza de juguetes
+55,98,133,Mantener un entorno limpio y saludable,Caminata en el parque
+56,142,487,Mantener un entorno limpio y saludable,Juego de pelota
+57,5,21,Proporcionar ejercicio y estimulación mental,Juego de pelota
+58,22,222,Proporcionar atención veterinaria regular,Entrenamiento de obediencia
+59,58,396,Brindar un refugio seguro y cómodo,Juego de pelota
+60,114,366,Brindar un refugio seguro y cómodo,Caza de juguetes

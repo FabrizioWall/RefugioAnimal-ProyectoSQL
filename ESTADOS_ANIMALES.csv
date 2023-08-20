@@ -1,0 +1,8 @@
+id_estado,descripcion_estado
+1,sano
+2,enfermo
+3,herido
+4,recuperándose
+5,activo
+6,en tratamiento
+7,fallecido

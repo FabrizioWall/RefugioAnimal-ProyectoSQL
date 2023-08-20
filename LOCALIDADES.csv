@@ -1,0 +1,1001 @@
+id_localidad,localidad
+1,Rosario
+2,Tucumán
+3,Santa Fe
+4,Rosario
+5,Tucumán
+6,Salta
+7,Mar del Plata
+8,Salta
+9,Córdoba
+10,San Juan
+11,Córdoba
+12,Mendoza
+13,San Juan
+14,Mar del Plata
+15,Mar del Plata
+16,Buenos Aires
+17,Mendoza
+18,Buenos Aires
+19,Mar del Plata
+20,Tucumán
+21,Tucumán
+22,Santa Fe
+23,San Juan
+24,Salta
+25,Santa Fe
+26,San Juan
+27,Rosario
+28,Córdoba
+29,Buenos Aires
+30,Mar del Plata
+31,Salta
+32,Tucumán
+33,Mendoza
+34,Tucumán
+35,La Plata
+36,Buenos Aires
+37,Tucumán
+38,San Juan
+39,La Plata
+40,San Juan
+41,Córdoba
+42,Mendoza
+43,San Juan
+44,San Juan
+45,Santa Fe
+46,Mar del Plata
+47,La Plata
+48,Mar del Plata
+49,Salta
+50,San Juan
+51,Buenos Aires
+52,San Juan
+53,Mar del Plata
+54,Mendoza
+55,Córdoba
+56,Rosario
+57,Rosario
+58,Mar del Plata
+59,Rosario
+60,Rosario
+61,Mar del Plata
+62,San Juan
+63,Córdoba
+64,Salta
+65,Tucumán
+66,San Juan
+67,Córdoba
+68,Salta
+69,Santa Fe
+70,Tucumán
+71,San Juan
+72,San Juan
+73,Mar del Plata
+74,San Juan
+75,Buenos Aires
+76,Mendoza
+77,Mar del Plata
+78,Mar del Plata
+79,Mendoza
+80,Santa Fe
+81,Rosario
+82,San Juan
+83,La Plata
+84,Salta
+85,Córdoba
+86,Córdoba
+87,Mar del Plata
+88,Mendoza
+89,Salta
+90,Mendoza
+91,Tucumán
+92,Santa Fe
+93,Buenos Aires
+94,Buenos Aires
+95,Salta
+96,Mar del Plata
+97,Mendoza
+98,Córdoba
+99,Salta
+100,Rosario
+101,Rosario
+102,La Plata
+103,Mendoza
+104,Córdoba
+105,Mar del Plata
+106,Mendoza
+107,Tucumán
+108,Salta
+109,Tucumán
+110,Salta
+111,Salta
+112,Rosario
+113,Rosario
+114,Córdoba
+115,Córdoba
+116,Mar del Plata
+117,Córdoba
+118,Rosario
+119,Buenos Aires
+120,Tucumán
+121,San Juan
+122,Santa Fe
+123,Buenos Aires
+124,Buenos Aires
+125,Rosario
+126,San Juan
+127,Buenos Aires
+128,La Plata
+129,Córdoba
+130,Córdoba
+131,San Juan
+132,Rosario
+133,Mar del Plata
+134,Buenos Aires
+135,San Juan
+136,Mendoza
+137,La Plata
+138,Santa Fe
+139,Mendoza
+140,Tucumán
+141,Rosario
+142,Buenos Aires
+143,Buenos Aires
+144,Mendoza
+145,Salta
+146,Buenos Aires
+147,Córdoba
+148,Córdoba
+149,Mendoza
+150,Tucumán
+151,Rosario
+152,San Juan
+153,La Plata
+154,Mar del Plata
+155,Tucumán
+156,Rosario
+157,Santa Fe
+158,Salta
+159,La Plata
+160,Mar del Plata
+161,Santa Fe
+162,San Juan
+163,Salta
+164,Mar del Plata
+165,Mar del Plata
+166,Mendoza
+167,Buenos Aires
+168,Santa Fe
+169,Córdoba
+170,Buenos Aires
+171,Buenos Aires
+172,Mar del Plata
+173,Rosario
+174,La Plata
+175,Buenos Aires
+176,Santa Fe
+177,Rosario
+178,La Plata
+179,San Juan
+180,Córdoba
+181,Mar del Plata
+182,Córdoba
+183,La Plata
+184,Salta
+185,Santa Fe
+186,La Plata
+187,Rosario
+188,La Plata
+189,La Plata
+190,Rosario
+191,Mar del Plata
+192,Buenos Aires
+193,San Juan
+194,Salta
+195,Salta
+196,Mar del Plata
+197,Santa Fe
+198,Mendoza
+199,Buenos Aires
+200,Salta
+201,Salta
+202,Tucumán
+203,San Juan
+204,Santa Fe
+205,San Juan
+206,Buenos Aires
+207,Córdoba
+208,Mar del Plata
+209,San Juan
+210,Buenos Aires
+211,Mendoza
+212,Santa Fe
+213,Córdoba
+214,Salta
+215,La Plata
+216,Salta
+217,Santa Fe
+218,Rosario
+219,Mendoza
+220,Santa Fe
+221,Salta
+222,Buenos Aires
+223,Tucumán
+224,Rosario
+225,Mendoza
+226,Rosario
+227,La Plata
+228,Salta
+229,Salta
+230,Santa Fe
+231,Mar del Plata
+232,Santa Fe
+233,Santa Fe
+234,Buenos Aires
+235,Rosario
+236,Córdoba
+237,Córdoba
+238,Rosario
+239,Córdoba
+240,Buenos Aires
+241,Tucumán
+242,Tucumán
+243,Córdoba
+244,San Juan
+245,Córdoba
+246,Tucumán
+247,San Juan
+248,Mendoza
+249,Buenos Aires
+250,La Plata
+251,Rosario
+252,Salta
+253,Buenos Aires
+254,San Juan
+255,Santa Fe
+256,Mar del Plata
+257,Mar del Plata
+258,Córdoba
+259,Salta
+260,Buenos Aires
+261,Buenos Aires
+262,Rosario
+263,Salta
+264,Mendoza
+265,Mendoza
+266,Tucumán
+267,Mendoza
+268,Mendoza
+269,Tucumán
+270,La Plata
+271,Buenos Aires
+272,Buenos Aires
+273,Buenos Aires
+274,Salta
+275,Tucumán
+276,Santa Fe
+277,Salta
+278,Santa Fe
+279,Salta
+280,La Plata
+281,Mendoza
+282,Buenos Aires
+283,Buenos Aires
+284,Salta
+285,San Juan
+286,Buenos Aires
+287,Mar del Plata
+288,Buenos Aires
+289,Mar del Plata
+290,La Plata
+291,La Plata
+292,Rosario
+293,Salta
+294,Tucumán
+295,Mendoza
+296,Salta
+297,Mar del Plata
+298,La Plata
+299,Córdoba
+300,Mendoza
+301,Buenos Aires
+302,Buenos Aires
+303,Mar del Plata
+304,Santa Fe
+305,Santa Fe
+306,La Plata
+307,Córdoba
+308,La Plata
+309,Salta
+310,Mendoza
+311,Santa Fe
+312,Mendoza
+313,Mar del Plata
+314,Córdoba
+315,Santa Fe
+316,San Juan
+317,Santa Fe
+318,Salta
+319,Santa Fe
+320,Tucumán
+321,Salta
+322,San Juan
+323,Tucumán
+324,Rosario
+325,Mendoza
+326,Mendoza
+327,Córdoba
+328,La Plata
+329,Santa Fe
+330,Mar del Plata
+331,Mar del Plata
+332,Salta
+333,Rosario
+334,Mendoza
+335,Rosario
+336,La Plata
+337,Córdoba
+338,La Plata
+339,Salta
+340,San Juan
+341,La Plata
+342,Rosario
+343,Buenos Aires
+344,Tucumán
+345,Córdoba
+346,Tucumán
+347,Córdoba
+348,Rosario
+349,Mendoza
+350,Tucumán
+351,Salta
+352,Buenos Aires
+353,Tucumán
+354,Rosario
+355,Mendoza
+356,Tucumán
+357,Córdoba
+358,Mendoza
+359,Tucumán
+360,Córdoba
+361,San Juan
+362,San Juan
+363,Córdoba
+364,Buenos Aires
+365,La Plata
+366,Buenos Aires
+367,Mar del Plata
+368,Mendoza
+369,Córdoba
+370,Rosario
+371,Rosario
+372,La Plata
+373,Rosario
+374,Mendoza
+375,Mendoza
+376,San Juan
+377,La Plata
+378,Mar del Plata
+379,Tucumán
+380,San Juan
+381,Mendoza
+382,Tucumán
+383,Tucumán
+384,Rosario
+385,Tucumán
+386,Tucumán
+387,Rosario
+388,Santa Fe
+389,Mendoza
+390,Córdoba
+391,San Juan
+392,Mar del Plata
+393,Rosario
+394,Mar del Plata
+395,Mendoza
+396,San Juan
+397,Mendoza
+398,Rosario
+399,San Juan
+400,Tucumán
+401,Mendoza
+402,Salta
+403,Buenos Aires
+404,Rosario
+405,San Juan
+406,Tucumán
+407,Tucumán
+408,Buenos Aires
+409,San Juan
+410,Mendoza
+411,Salta
+412,Santa Fe
+413,Buenos Aires
+414,Córdoba
+415,Mar del Plata
+416,Córdoba
+417,Mar del Plata
+418,Córdoba
+419,Rosario
+420,Rosario
+421,Mendoza
+422,Rosario
+423,Mar del Plata
+424,San Juan
+425,Buenos Aires
+426,Salta
+427,Salta
+428,San Juan
+429,Mendoza
+430,Tucumán
+431,Tucumán
+432,San Juan
+433,Salta
+434,Mar del Plata
+435,Buenos Aires
+436,Santa Fe
+437,Mar del Plata
+438,Mar del Plata
+439,Mendoza
+440,Tucumán
+441,Santa Fe
+442,Salta
+443,Mendoza
+444,Rosario
+445,Santa Fe
+446,Buenos Aires
+447,Rosario
+448,San Juan
+449,Mendoza
+450,Tucumán
+451,Mendoza
+452,Córdoba
+453,Santa Fe
+454,Mendoza
+455,Buenos Aires
+456,San Juan
+457,Salta
+458,Tucumán
+459,Mar del Plata
+460,Mendoza
+461,Mar del Plata
+462,Salta
+463,La Plata
+464,Mendoza
+465,Mar del Plata
+466,Córdoba
+467,Mar del Plata
+468,Tucumán
+469,Córdoba
+470,Buenos Aires
+471,Mar del Plata
+472,Rosario
+473,San Juan
+474,San Juan
+475,Mendoza
+476,Córdoba
+477,Salta
+478,Mar del Plata
+479,Buenos Aires
+480,San Juan
+481,Santa Fe
+482,Mendoza
+483,Mendoza
+484,Córdoba
+485,Buenos Aires
+486,Salta
+487,Rosario
+488,San Juan
+489,Salta
+490,Santa Fe
+491,Córdoba
+492,Salta
+493,Rosario
+494,Córdoba
+495,Mendoza
+496,Mendoza
+497,Mar del Plata
+498,Salta
+499,Mar del Plata
+500,Rosario
+501,Santa Fe
+502,Tucumán
+503,Rosario
+504,Santa Fe
+505,Salta
+506,Salta
+507,San Juan
+508,Tucumán
+509,Salta
+510,Mendoza
+511,Mendoza
+512,Salta
+513,Tucumán
+514,San Juan
+515,Santa Fe
+516,Mar del Plata
+517,Buenos Aires
+518,Santa Fe
+519,San Juan
+520,La Plata
+521,Córdoba
+522,Córdoba
+523,Tucumán
+524,Rosario
+525,Córdoba
+526,Tucumán
+527,La Plata
+528,Córdoba
+529,Buenos Aires
+530,Santa Fe
+531,La Plata
+532,Córdoba
+533,San Juan
+534,Buenos Aires
+535,Buenos Aires
+536,Mar del Plata
+537,Rosario
+538,Santa Fe
+539,Rosario
+540,Tucumán
+541,Salta
+542,San Juan
+543,Santa Fe
+544,Mar del Plata
+545,La Plata
+546,La Plata
+547,Mar del Plata
+548,Mar del Plata
+549,Rosario
+550,Tucumán
+551,Mar del Plata
+552,Tucumán
+553,Tucumán
+554,Mar del Plata
+555,Santa Fe
+556,Rosario
+557,La Plata
+558,La Plata
+559,Santa Fe
+560,San Juan
+561,La Plata
+562,Rosario
+563,La Plata
+564,Salta
+565,La Plata
+566,Tucumán
+567,Buenos Aires
+568,San Juan
+569,Buenos Aires
+570,Mar del Plata
+571,Córdoba
+572,Santa Fe
+573,Buenos Aires
+574,Salta
+575,Mendoza
+576,Mendoza
+577,Salta
+578,Santa Fe
+579,Mendoza
+580,Tucumán
+581,San Juan
+582,Buenos Aires
+583,La Plata
+584,Santa Fe
+585,Santa Fe
+586,Buenos Aires
+587,Mar del Plata
+588,Mendoza
+589,La Plata
+590,Mendoza
+591,Buenos Aires
+592,Buenos Aires
+593,Córdoba
+594,Rosario
+595,Rosario
+596,Santa Fe
+597,Mar del Plata
+598,Santa Fe
+599,Santa Fe
+600,Tucumán
+601,Tucumán
+602,Tucumán
+603,Santa Fe
+604,San Juan
+605,San Juan
+606,Rosario
+607,Tucumán
+608,Mar del Plata
+609,Santa Fe
+610,Mendoza
+611,Buenos Aires
+612,Mar del Plata
+613,San Juan
+614,Rosario
+615,Buenos Aires
+616,Mendoza
+617,San Juan
+618,Buenos Aires
+619,Salta
+620,Mar del Plata
+621,Buenos Aires
+622,Buenos Aires
+623,Rosario
+624,Tucumán
+625,Salta
+626,Salta
+627,Córdoba
+628,Rosario
+629,Tucumán
+630,Rosario
+631,Tucumán
+632,La Plata
+633,Tucumán
+634,Tucumán
+635,Mar del Plata
+636,Rosario
+637,San Juan
+638,Córdoba
+639,Mar del Plata
+640,Mendoza
+641,Salta
+642,Rosario
+643,Rosario
+644,Rosario
+645,Mar del Plata
+646,Santa Fe
+647,Mendoza
+648,Córdoba
+649,Mar del Plata
+650,Buenos Aires
+651,Córdoba
+652,Mendoza
+653,Rosario
+654,Mendoza
+655,Córdoba
+656,Tucumán
+657,Mar del Plata
+658,Tucumán
+659,La Plata
+660,Mar del Plata
+661,Mendoza
+662,La Plata
+663,Mar del Plata
+664,Rosario
+665,Rosario
+666,Mar del Plata
+667,Santa Fe
+668,Buenos Aires
+669,Mar del Plata
+670,La Plata
+671,San Juan
+672,Mar del Plata
+673,Rosario
+674,Santa Fe
+675,Buenos Aires
+676,San Juan
+677,San Juan
+678,Córdoba
+679,Santa Fe
+680,Salta
+681,Santa Fe
+682,San Juan
+683,Santa Fe
+684,Mendoza
+685,Rosario
+686,San Juan
+687,La Plata
+688,Mar del Plata
+689,Tucumán
+690,Santa Fe
+691,Tucumán
+692,Mar del Plata
+693,Mar del Plata
+694,San Juan
+695,Rosario
+696,Buenos Aires
+697,Mar del Plata
+698,Rosario
+699,Santa Fe
+700,Santa Fe
+701,Buenos Aires
+702,Mar del Plata
+703,La Plata
+704,Tucumán
+705,Salta
+706,Salta
+707,La Plata
+708,San Juan
+709,Mar del Plata
+710,Buenos Aires
+711,Santa Fe
+712,Córdoba
+713,Buenos Aires
+714,Rosario
+715,La Plata
+716,Salta
+717,San Juan
+718,Salta
+719,La Plata
+720,La Plata
+721,Rosario
+722,San Juan
+723,Rosario
+724,La Plata
+725,La Plata
+726,Mendoza
+727,Córdoba
+728,Tucumán
+729,Santa Fe
+730,Salta
+731,Córdoba
+732,Santa Fe
+733,San Juan
+734,Salta
+735,Salta
+736,La Plata
+737,La Plata
+738,Tucumán
+739,San Juan
+740,Tucumán
+741,Buenos Aires
+742,Santa Fe
+743,Mar del Plata
+744,Buenos Aires
+745,Salta
+746,Buenos Aires
+747,Rosario
+748,Santa Fe
+749,Tucumán
+750,Buenos Aires
+751,La Plata
+752,La Plata
+753,Mar del Plata
+754,Salta
+755,San Juan
+756,La Plata
+757,San Juan
+758,San Juan
+759,Buenos Aires
+760,La Plata
+761,San Juan
+762,Tucumán
+763,Córdoba
+764,Santa Fe
+765,Santa Fe
+766,Salta
+767,Buenos Aires
+768,San Juan
+769,Rosario
+770,Salta
+771,San Juan
+772,Mendoza
+773,Santa Fe
+774,Tucumán
+775,San Juan
+776,Rosario
+777,Rosario
+778,Mendoza
+779,Buenos Aires
+780,La Plata
+781,Córdoba
+782,Santa Fe
+783,La Plata
+784,Rosario
+785,Buenos Aires
+786,Córdoba
+787,Mendoza
+788,Mendoza
+789,Mendoza
+790,Córdoba
+791,San Juan
+792,Tucumán
+793,San Juan
+794,Córdoba
+795,Mendoza
+796,Santa Fe
+797,Mar del Plata
+798,Mendoza
+799,Tucumán
+800,Salta
+801,San Juan
+802,San Juan
+803,Córdoba
+804,Buenos Aires
+805,Salta
+806,Rosario
+807,San Juan
+808,Rosario
+809,Buenos Aires
+810,Tucumán
+811,Rosario
+812,Tucumán
+813,Rosario
+814,San Juan
+815,Salta
+816,Rosario
+817,Santa Fe
+818,Mendoza
+819,Córdoba
+820,Salta
+821,Mendoza
+822,Córdoba
+823,Rosario
+824,Buenos Aires
+825,Salta
+826,Santa Fe
+827,Santa Fe
+828,San Juan
+829,Buenos Aires
+830,Santa Fe
+831,Mar del Plata
+832,Mendoza
+833,Tucumán
+834,Córdoba
+835,Santa Fe
+836,Buenos Aires
+837,Mar del Plata
+838,Tucumán
+839,La Plata
+840,Salta
+841,Santa Fe
+842,Buenos Aires
+843,Rosario
+844,Santa Fe
+845,Buenos Aires
+846,La Plata
+847,Santa Fe
+848,Rosario
+849,Salta
+850,Salta
+851,Tucumán
+852,Rosario
+853,Mendoza
+854,Tucumán
+855,Rosario
+856,Rosario
+857,Salta
+858,Buenos Aires
+859,Mendoza
+860,Mar del Plata
+861,La Plata
+862,Santa Fe
+863,La Plata
+864,Mar del Plata
+865,Mar del Plata
+866,Mendoza
+867,San Juan
+868,Córdoba
+869,Córdoba
+870,Santa Fe
+871,Buenos Aires
+872,San Juan
+873,Mendoza
+874,Mar del Plata
+875,San Juan
+876,Salta
+877,Mendoza
+878,Tucumán
+879,La Plata
+880,San Juan
+881,San Juan
+882,La Plata
+883,Santa Fe
+884,La Plata
+885,La Plata
+886,Santa Fe
+887,San Juan
+888,Mar del Plata
+889,La Plata
+890,La Plata
+891,San Juan
+892,San Juan
+893,Tucumán
+894,Córdoba
+895,Mendoza
+896,San Juan
+897,Mendoza
+898,Rosario
+899,Santa Fe
+900,Buenos Aires
+901,Mar del Plata
+902,Buenos Aires
+903,Salta
+904,Santa Fe
+905,La Plata
+906,Mar del Plata
+907,Mendoza
+908,Córdoba
+909,La Plata
+910,La Plata
+911,Mar del Plata
+912,Rosario
+913,Santa Fe
+914,Buenos Aires
+915,Salta
+916,La Plata
+917,San Juan
+918,San Juan
+919,Santa Fe
+920,Rosario
+921,Santa Fe
+922,San Juan
+923,Santa Fe
+924,Santa Fe
+925,Salta
+926,Salta
+927,Buenos Aires
+928,Córdoba
+929,Mar del Plata
+930,Santa Fe
+931,Córdoba
+932,Salta
+933,Mendoza
+934,Mendoza
+935,Mendoza
+936,Tucumán
+937,La Plata
+938,Santa Fe
+939,Buenos Aires
+940,Salta
+941,Mar del Plata
+942,Mar del Plata
+943,Buenos Aires
+944,Tucumán
+945,La Plata
+946,Mendoza
+947,Mar del Plata
+948,Mendoza
+949,Córdoba
+950,Córdoba
+951,San Juan
+952,Córdoba
+953,Santa Fe
+954,Tucumán
+955,Buenos Aires
+956,Santa Fe
+957,Rosario
+958,Mendoza
+959,Tucumán
+960,Tucumán
+961,Córdoba
+962,Tucumán
+963,La Plata
+964,Buenos Aires
+965,Rosario
+966,Salta
+967,Santa Fe
+968,San Juan
+969,Rosario
+970,San Juan
+971,Rosario
+972,Buenos Aires
+973,Córdoba
+974,Rosario
+975,Buenos Aires
+976,Salta
+977,Santa Fe
+978,Rosario
+979,Tucumán
+980,Tucumán
+981,Mar del Plata
+982,Mendoza
+983,San Juan
+984,Buenos Aires
+985,Buenos Aires
+986,Rosario
+987,Salta
+988,Santa Fe
+989,Córdoba
+990,Rosario
+991,Tucumán
+992,Santa Fe
+993,Tucumán
+994,Mendoza
+995,Santa Fe
+996,Córdoba
+997,Salta
+998,Salta
+999,Mendoza
+1000,La Plata

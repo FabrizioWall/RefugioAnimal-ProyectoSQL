@@ -1,0 +1,11 @@
+id_adoptante,nombre_adoptante,apellido_adoptante,dni_adoptante,domicilio_adoptante,telefono_adoptante,id_animal,fecha_adopcion
+1,Dilly,Manterfield,20404129,Calle Falsa 123,1592576195,2,2023-03-21
+2,Teodora,Kittle,35121073,Calle Falsa 123,1523697315,4,2023-02-01
+3,Artemas,Elbourne,70851461,Calle Falsa 123,1527518381,5,2023-01-09
+4,Marcella,Manclark,14020098,Calle Falsa 123,1518070940,8,2022-12-25
+5,Whitman,Galea,40765707,Calle Falsa 123,1596638465,4,2023-08-02
+6,Nikolia,Druitt,55554889,Calle Falsa 123,1567605252,4,2023-01-02
+7,Bridget,Savery,33606807,Calle Falsa 123,1595947970,4,2023-06-09
+8,Pauletta,Ranscome,49016174,Calle Falsa 123,1529623983,2,2023-01-22
+9,Inger,Cortese,15536896,Calle Falsa 123,1561040222,8,2023-03-02
+10,Marshal,McNelis,52190506,Calle Falsa 123,1526131469,1,2023-05-29

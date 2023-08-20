@@ -1,0 +1,501 @@
+id_animal,nombre_animal,raza_animal,descripcion,fecha_ingreso,edad_estimada_animal,id_estado,sexo
+1,Nollie,Siamese,territorial,2023-03-11,9,1,M
+2,Wilhelmine,,territorial,2022-11-29,0,4,F
+3,Sean,Siamese,agresivo,2023-06-12,12,2,M
+4,Taylor,Golden Retriever,agresivo,2022-09-24,13,2,M
+5,Murdock,Labrador Retriever,territorial,2023-03-25,12,7,M
+6,Laurie,Siamese,juguetón,2022-09-17,11,5,M
+7,Mort,,agresivo,2023-05-25,1,2,M
+8,Kimberly,Siamese,amigable,2023-03-18,4,5,F
+9,Sheryl,,territorial,2023-07-28,17,5,F
+10,Pietra,,territorial,2023-04-29,11,2,F
+11,Alvera,,tímido,2022-11-16,19,5,F
+12,Willabella,Siamese,curioso,2022-09-05,4,5,F
+13,Art,Siamese,curioso,2023-05-15,9,1,M
+14,Lorrie,,curioso,2023-07-16,7,3,F
+15,Barthel,,agresivo,2023-01-13,12,5,M
+16,Ennis,Bulldog,juguetón,2023-02-05,20,5,M
+17,Gert,Poodle,juguetón,2023-05-30,9,2,F
+18,Delainey,Golden Retriever,curioso,2023-04-15,6,5,M
+19,Mychal,Bulldog,territorial,2023-07-09,13,6,M
+20,Romy,Poodle,territorial,2023-06-01,7,4,F
+21,Calvin,Persian,amigable,2022-08-26,6,6,M
+22,Clemmy,,tímido,2023-04-26,7,4,M
+23,Kevan,,amigable,2022-09-04,8,3,M
+24,Reade,Poodle,territorial,2022-11-22,16,7,M
+25,De,,tímido,2023-06-03,14,1,F
+26,Rahel,,juguetón,2023-04-06,8,2,F
+27,Ofelia,,amigable,2023-03-31,15,1,F
+28,Paddie,German Shepherd,juguetón,2022-09-14,4,3,M
+29,Meryl,Golden Retriever,juguetón,2023-06-29,1,1,M
+30,Daniel,Bulldog,tímido,2023-04-02,13,3,M
+31,Madalyn,,curioso,2023-07-08,16,6,F
+32,Lorianne,Maine Coon,juguetón,2023-01-21,10,6,F
+33,Steven,German Shepherd,territorial,2023-03-08,14,6,M
+34,Solly,Maine Coon,territorial,2022-12-23,7,3,M
+35,Aeriela,Maine Coon,amigable,2023-06-28,18,6,F
+36,Jessalyn,Poodle,territorial,2023-07-18,1,4,F
+37,Chen,,curioso,2022-11-03,17,6,M
+38,Rich,Golden Retriever,juguetón,2022-10-26,6,3,M
+39,Vale,,agresivo,2022-12-07,1,1,F
+40,Padraic,Poodle,territorial,2023-04-14,17,2,M
+41,Jorey,,amigable,2023-04-04,9,6,F
+42,Amalia,Persian,curioso,2023-01-26,20,6,F
+43,Paco,Siamese,amigable,2023-04-10,12,6,M
+44,Jasen,German Shepherd,juguetón,2023-06-05,12,7,M
+45,Michael,Labrador Retriever,amigable,2023-02-24,10,1,M
+46,Kerstin,Maine Coon,agresivo,2023-05-23,12,7,F
+47,Parrnell,German Shepherd,amigable,2023-01-17,6,1,M
+48,Nathaniel,,juguetón,2023-02-18,4,4,M
+49,Miles,,tímido,2022-10-05,7,5,M
+50,Brig,Bulldog,tímido,2023-02-01,18,1,M
+51,Correna,,territorial,2023-03-15,17,3,F
+52,Christophe,Maine Coon,amigable,2023-05-23,6,3,M
+53,Lulu,Maine Coon,tímido,2023-01-04,8,7,F
+54,Terencio,Siamese,curioso,2023-06-25,2,6,M
+55,Muhammad,Maine Coon,tímido,2023-03-04,6,1,M
+56,Eli,,amigable,2022-12-23,14,5,M
+57,Erasmus,,territorial,2022-10-16,18,4,M
+58,Gilli,,territorial,2023-02-05,2,4,F
+59,Pavel,Labrador Retriever,agresivo,2023-07-15,6,7,M
+60,Drucy,Poodle,tímido,2023-07-08,5,4,F
+61,Iormina,Siamese,curioso,2023-06-20,7,2,F
+62,Eachelle,Maine Coon,territorial,2022-10-01,4,2,F
+63,Rosaleen,Maine Coon,agresivo,2023-06-13,4,6,F
+64,Major,Golden Retriever,territorial,2023-01-01,18,5,M
+65,Mireielle,,amigable,2022-10-14,8,3,F
+66,Mohammed,Poodle,territorial,2022-11-09,1,5,M
+67,Nicole,,territorial,2022-11-10,6,5,F
+68,Chelsie,Siamese,agresivo,2023-05-02,18,2,F
+69,Vi,German Shepherd,juguetón,2022-11-14,3,4,F
+70,Zuzana,Poodle,tímido,2023-05-12,19,2,F
+71,Leonanie,Maine Coon,tímido,2023-04-22,3,3,F
+72,Hannah,Siamese,juguetón,2023-02-09,5,6,F
+73,Jake,Poodle,juguetón,2023-04-19,10,6,M
+74,Jobyna,,curioso,2023-01-18,9,4,F
+75,Felice,,territorial,2022-11-15,19,3,M
+76,Krystalle,Persian,amigable,2023-03-02,9,5,F
+77,Ginger,Labrador Retriever,agresivo,2023-08-14,12,2,M
+78,Hendrika,Labrador Retriever,juguetón,2022-12-02,12,1,F
+79,Vaughn,Poodle,territorial,2023-03-03,4,2,M
+80,Nichol,Maine Coon,tímido,2023-03-08,11,6,F
+81,Jodie,Poodle,territorial,2023-08-10,14,1,M
+82,Giacobo,Siamese,juguetón,2022-10-11,11,1,M
+83,Linnie,Labrador Retriever,tímido,2022-12-24,16,4,F
+84,Viviana,Maine Coon,amigable,2023-03-07,7,1,F
+85,Jobie,German Shepherd,juguetón,2023-06-29,5,2,F
+86,Malchy,,tímido,2023-02-24,3,2,M
+87,Glennie,,agresivo,2023-04-17,4,7,F
+88,Fredek,German Shepherd,juguetón,2022-12-06,13,2,M
+89,Daisi,Golden Retriever,territorial,2023-03-25,4,3,F
+90,Avie,Labrador Retriever,agresivo,2023-06-30,19,2,F
+91,Alec,Labrador Retriever,juguetón,2022-09-07,6,1,M
+92,Quinton,,territorial,2023-07-04,20,6,M
+93,Clotilda,Golden Retriever,curioso,2023-03-30,0,7,F
+94,Grantley,,amigable,2023-03-23,5,1,M
+95,Dion,German Shepherd,amigable,2023-03-29,19,6,F
+96,Dru,,agresivo,2023-06-08,12,5,M
+97,Chicky,,agresivo,2022-11-06,17,6,F
+98,Alice,Siamese,amigable,2023-08-12,15,4,F
+99,Trude,Siamese,juguetón,2022-09-20,16,6,F
+100,Orville,Bulldog,curioso,2023-04-11,19,3,M
+101,Agnella,Poodle,juguetón,2023-03-28,4,6,F
+102,Rheba,Maine Coon,juguetón,2023-04-26,1,1,F
+103,Lazare,Golden Retriever,territorial,2022-09-18,9,7,M
+104,Nealson,Labrador Retriever,juguetón,2022-09-12,17,7,M
+105,Eda,Siamese,tímido,2023-06-24,15,1,F
+106,Jayson,Siamese,juguetón,2022-10-23,14,1,M
+107,Ardis,,tímido,2022-09-25,13,5,F
+108,Ches,Persian,agresivo,2023-07-31,16,3,M
+109,Drusy,Maine Coon,amigable,2022-11-02,17,5,F
+110,Lindy,Golden Retriever,curioso,2023-01-30,9,3,M
+111,Orelia,,territorial,2023-07-23,16,6,F
+112,Gwyneth,,agresivo,2023-02-05,2,4,F
+113,Tymothy,Bulldog,juguetón,2022-10-13,10,2,M
+114,Kari,German Shepherd,territorial,2023-07-24,0,2,F
+115,Jobyna,Bulldog,amigable,2022-11-19,18,7,F
+116,Ignacius,Poodle,tímido,2023-07-21,0,3,M
+117,Albie,Poodle,agresivo,2023-02-16,8,2,M
+118,Cornell,German Shepherd,juguetón,2023-05-31,10,4,M
+119,Tod,Labrador Retriever,curioso,2022-09-18,18,6,M
+120,Bert,Siamese,territorial,2023-03-06,10,5,M
+121,Marissa,,territorial,2023-03-15,15,4,F
+122,Austen,German Shepherd,juguetón,2022-10-18,18,4,M
+123,Irina,Siamese,amigable,2022-10-27,10,6,F
+124,Windy,German Shepherd,tímido,2023-02-07,3,2,F
+125,Hestia,,amigable,2023-01-22,10,4,F
+126,Briney,German Shepherd,juguetón,2023-03-13,4,3,F
+127,Car,Siamese,juguetón,2023-03-17,14,2,M
+128,Woody,,amigable,2023-08-02,9,5,M
+129,Rianon,,amigable,2022-09-16,10,5,F
+130,Chris,,curioso,2022-10-08,14,6,M
+131,Gregoire,Siamese,territorial,2022-11-12,10,1,M
+132,Cathyleen,Golden Retriever,juguetón,2023-03-09,2,4,F
+133,Jen,,territorial,2023-06-13,12,7,F
+134,Nance,Maine Coon,amigable,2022-08-30,11,4,F
+135,Sadye,Poodle,curioso,2023-01-08,17,6,F
+136,Porty,,juguetón,2023-01-17,3,6,M
+137,Langston,Maine Coon,amigable,2023-05-13,9,3,M
+138,Roarke,Persian,tímido,2022-11-19,16,5,M
+139,Reynard,Bulldog,juguetón,2023-05-11,14,1,M
+140,Salvatore,Maine Coon,territorial,2023-07-05,13,1,M
+141,Norman,Persian,agresivo,2023-05-24,17,4,M
+142,Jeffrey,Persian,territorial,2022-12-29,17,7,M
+143,Jolie,Golden Retriever,curioso,2023-05-19,5,2,F
+144,Devina,,curioso,2023-07-14,20,3,F
+145,Carol-jean,Maine Coon,curioso,2022-12-18,0,3,F
+146,Fernandina,Labrador Retriever,tímido,2023-02-03,13,7,F
+147,Hermann,Golden Retriever,agresivo,2022-11-09,16,3,M
+148,Georgi,Bulldog,tímido,2023-02-08,12,6,M
+149,Hyatt,,amigable,2023-05-19,5,6,M
+150,Vin,Poodle,curioso,2022-09-09,16,7,F
+151,Moise,Labrador Retriever,juguetón,2023-03-30,12,1,M
+152,Adan,Bulldog,curioso,2022-09-24,11,2,M
+153,Petrina,Persian,tímido,2022-12-18,20,1,F
+154,Judas,,territorial,2023-06-28,14,3,M
+155,Patrica,Siamese,amigable,2023-06-13,2,5,F
+156,Lynea,Labrador Retriever,tímido,2023-06-11,17,6,F
+157,Rhonda,,agresivo,2023-03-18,8,4,F
+158,Crissy,Labrador Retriever,tímido,2023-05-25,11,7,F
+159,Beryle,Golden Retriever,amigable,2023-01-16,8,6,F
+160,Ginnie,Labrador Retriever,curioso,2023-06-27,11,6,F
+161,Chevalier,Labrador Retriever,territorial,2022-10-28,14,3,M
+162,Laina,Bulldog,juguetón,2023-04-13,9,7,F
+163,Nola,Persian,curioso,2023-07-29,10,7,F
+164,Derby,Persian,tímido,2022-11-30,13,5,M
+165,Killy,Siamese,amigable,2023-07-07,2,1,M
+166,Federico,Poodle,tímido,2022-09-01,0,4,M
+167,Arturo,Poodle,curioso,2023-05-06,11,7,M
+168,Emmett,Bulldog,territorial,2023-01-30,2,4,M
+169,Ondrea,Siamese,curioso,2023-04-14,10,1,F
+170,Valida,German Shepherd,territorial,2023-08-13,4,1,F
+171,Linoel,Poodle,tímido,2023-06-06,18,6,M
+172,Jay,German Shepherd,amigable,2023-01-08,18,1,M
+173,Tedra,,agresivo,2023-04-14,11,6,F
+174,Hashim,Poodle,agresivo,2022-12-01,2,4,M
+175,Syd,Golden Retriever,agresivo,2023-03-10,0,4,M
+176,Tamara,German Shepherd,juguetón,2022-09-08,7,6,F
+177,Nerty,Bulldog,agresivo,2023-02-03,15,4,F
+178,Carolus,Bulldog,juguetón,2022-11-09,11,6,M
+179,Wes,,curioso,2023-01-13,7,7,M
+180,Doy,Maine Coon,curioso,2023-07-24,15,6,M
+181,Vergil,,curioso,2023-06-13,20,6,M
+182,Bren,Poodle,tímido,2022-09-01,13,7,F
+183,Wit,Persian,amigable,2022-12-18,3,6,M
+184,Devina,Golden Retriever,agresivo,2022-09-06,1,6,F
+185,Melvyn,Golden Retriever,amigable,2023-02-22,8,1,M
+186,Bald,,curioso,2023-07-29,19,6,M
+187,Lief,Labrador Retriever,territorial,2022-12-16,19,4,M
+188,Zane,Golden Retriever,amigable,2022-11-02,0,1,M
+189,Chery,Siamese,curioso,2023-01-09,14,4,F
+190,Pacorro,Siamese,curioso,2023-03-31,12,1,M
+191,Brandi,Labrador Retriever,juguetón,2023-01-11,19,4,F
+192,Mirna,,juguetón,2023-05-20,5,2,F
+193,Horacio,Bulldog,territorial,2023-06-12,7,6,M
+194,Zena,Maine Coon,territorial,2022-09-19,2,1,F
+195,Bail,Maine Coon,territorial,2023-04-14,2,1,M
+196,Abba,,juguetón,2023-05-28,11,6,M
+197,Gertruda,Bulldog,tímido,2023-03-21,5,7,F
+198,Rochell,,agresivo,2023-08-11,20,6,F
+199,Evanne,,tímido,2023-08-06,4,6,F
+200,Rodie,,territorial,2023-07-29,9,6,F
+201,Maureene,,tímido,2022-09-04,6,1,F
+202,Lacee,Labrador Retriever,agresivo,2023-05-14,13,1,F
+203,Wendye,,agresivo,2022-10-21,1,7,F
+204,Izaak,,amigable,2023-07-24,11,4,M
+205,Harrie,Labrador Retriever,amigable,2023-04-18,7,7,F
+206,Norma,,agresivo,2022-08-19,20,1,F
+207,Bria,Labrador Retriever,territorial,2023-07-25,19,7,F
+208,Amandi,Labrador Retriever,territorial,2022-12-04,10,4,F
+209,Dorry,Labrador Retriever,territorial,2022-11-13,4,5,F
+210,Aloisia,Maine Coon,juguetón,2023-07-10,20,1,F
+211,Stephine,Persian,territorial,2023-05-28,0,5,F
+212,Adele,,amigable,2023-01-07,0,3,F
+213,Penni,Bulldog,tímido,2023-02-25,20,4,F
+214,Ian,,territorial,2022-11-09,15,6,M
+215,Nels,Bulldog,juguetón,2023-07-20,1,7,M
+216,Roderigo,Golden Retriever,territorial,2023-03-24,8,1,M
+217,Andria,Golden Retriever,amigable,2023-07-11,8,4,F
+218,Ericka,Bulldog,territorial,2023-05-11,10,3,F
+219,Alfonso,,agresivo,2022-10-06,13,2,M
+220,Zonda,Siamese,curioso,2023-03-24,19,1,F
+221,Vinita,,curioso,2022-12-22,10,5,F
+222,Kaspar,Maine Coon,curioso,2023-01-29,18,5,M
+223,Franny,Labrador Retriever,amigable,2022-11-17,10,7,M
+224,Zitella,,amigable,2023-01-27,15,7,F
+225,Coreen,Persian,juguetón,2023-06-13,14,1,F
+226,Lindie,,amigable,2023-08-07,9,4,F
+227,Marilee,,amigable,2023-06-04,15,3,F
+228,Ilsa,,territorial,2022-10-22,12,3,F
+229,Rosemarie,,amigable,2023-04-24,17,2,F
+230,Derry,German Shepherd,juguetón,2022-10-31,5,5,M
+231,Baudoin,,territorial,2023-05-25,14,5,M
+232,Dorrie,Siamese,agresivo,2022-10-06,3,2,F
+233,Carlin,,territorial,2023-07-12,17,4,M
+234,Reena,Maine Coon,territorial,2023-03-11,18,1,F
+235,Eolanda,Persian,amigable,2023-02-23,4,2,F
+236,Harli,Maine Coon,tímido,2023-03-30,15,7,F
+237,Ethelyn,,territorial,2023-05-19,7,7,F
+238,Justis,Golden Retriever,tímido,2022-11-23,15,6,M
+239,Alameda,Persian,juguetón,2022-12-25,11,5,F
+240,Gabrila,German Shepherd,curioso,2022-10-06,11,5,F
+241,Elisabeth,Bulldog,tímido,2022-12-16,9,3,F
+242,Zebadiah,,tímido,2023-01-16,20,4,M
+243,Malinda,Bulldog,amigable,2023-04-28,2,6,F
+244,Christel,Bulldog,territorial,2023-01-26,13,5,F
+245,Loraine,Siamese,curioso,2023-07-19,4,4,F
+246,Christyna,,curioso,2022-12-18,17,7,F
+247,Elwyn,,juguetón,2023-03-11,11,5,M
+248,Margaux,Siamese,territorial,2022-11-12,7,7,F
+249,Carrissa,,tímido,2022-11-15,11,1,F
+250,Kala,Maine Coon,amigable,2023-02-13,2,6,F
+251,Clo,Maine Coon,curioso,2023-07-29,4,1,F
+252,Marita,Bulldog,amigable,2023-02-17,2,6,F
+253,Rozamond,Bulldog,territorial,2023-07-20,6,5,F
+254,Nanette,,juguetón,2023-06-19,18,7,F
+255,Birdie,Persian,curioso,2023-07-25,13,2,F
+256,Starr,Maine Coon,curioso,2023-06-09,14,1,F
+257,Barnie,,juguetón,2023-06-11,18,5,M
+258,Gregorius,Labrador Retriever,amigable,2022-11-11,6,3,M
+259,Ashlie,Labrador Retriever,territorial,2023-06-07,12,6,F
+260,Mitch,Labrador Retriever,juguetón,2023-02-23,17,4,M
+261,Frasco,German Shepherd,curioso,2022-09-21,14,5,M
+262,Aldous,Persian,amigable,2023-01-28,10,3,M
+263,Haydon,,agresivo,2022-11-29,17,2,M
+264,Brantley,,territorial,2023-06-21,4,6,M
+265,Mona,Poodle,curioso,2023-01-31,20,3,F
+266,Woodrow,Persian,amigable,2023-04-12,11,6,M
+267,Sophie,German Shepherd,tímido,2023-07-06,12,3,F
+268,Kelsi,German Shepherd,amigable,2022-09-19,18,7,F
+269,Charlotte,Maine Coon,juguetón,2023-02-17,9,3,F
+270,Trixie,,territorial,2023-03-19,20,6,F
+271,Maurene,,amigable,2023-06-13,4,2,F
+272,Hillary,German Shepherd,agresivo,2022-09-29,20,3,F
+273,Sydney,,territorial,2023-05-10,2,2,F
+274,Bruis,Persian,territorial,2023-04-15,8,5,M
+275,Ruddie,Maine Coon,curioso,2023-06-08,15,2,M
+276,Harlan,Maine Coon,agresivo,2022-10-22,6,6,M
+277,Emalia,Persian,curioso,2022-11-06,14,7,F
+278,Remus,German Shepherd,curioso,2023-05-23,7,2,M
+279,Tam,Golden Retriever,territorial,2022-09-27,4,6,M
+280,Gardner,Siamese,curioso,2023-07-07,19,4,M
+281,Atlante,Poodle,tímido,2022-09-24,9,4,F
+282,Jacintha,Siamese,territorial,2022-12-14,18,3,F
+283,Karia,Bulldog,juguetón,2022-10-21,11,4,F
+284,Meyer,Bulldog,amigable,2023-02-08,7,3,M
+285,Heinrick,,juguetón,2022-08-28,10,1,M
+286,Anthia,Persian,curioso,2023-07-02,7,5,F
+287,Davidde,Persian,tímido,2022-12-18,15,2,M
+288,Billie,Maine Coon,agresivo,2023-04-17,12,7,M
+289,Gerald,,juguetón,2023-08-10,0,3,M
+290,Daniella,Labrador Retriever,territorial,2022-11-26,0,3,F
+291,Davis,Siamese,tímido,2022-11-19,19,1,M
+292,Perren,Bulldog,tímido,2023-06-12,12,3,M
+293,Ross,German Shepherd,curioso,2023-07-15,4,5,M
+294,Augusto,,tímido,2023-01-11,12,6,M
+295,Karol,German Shepherd,territorial,2023-03-17,18,3,F
+296,Terri,Persian,curioso,2022-12-23,0,1,M
+297,Bendick,,curioso,2023-07-01,10,7,M
+298,Mahmud,,agresivo,2022-11-29,19,3,M
+299,Dedra,Poodle,curioso,2022-09-16,18,5,F
+300,Francois,Maine Coon,tímido,2023-02-06,7,4,M
+301,Nellie,,agresivo,2023-03-06,5,2,F
+302,Emmerich,Persian,territorial,2023-03-12,6,3,M
+303,Siegfried,Poodle,curioso,2023-05-07,6,1,M
+304,Ase,,curioso,2022-10-07,16,4,M
+305,Deeann,,curioso,2023-02-16,9,1,F
+306,Esmeralda,,amigable,2023-07-16,20,2,F
+307,Tammy,,curioso,2023-06-19,11,2,F
+308,Gerty,,tímido,2023-05-11,13,4,F
+309,Michel,Poodle,juguetón,2022-10-04,0,2,M
+310,Carlos,Bulldog,curioso,2023-05-29,1,3,M
+311,Caralie,,agresivo,2023-07-25,4,3,F
+312,Allianora,Golden Retriever,amigable,2022-09-30,6,2,F
+313,Pete,Bulldog,curioso,2023-01-07,7,1,M
+314,Weston,Bulldog,curioso,2022-12-15,15,4,M
+315,Friederike,Golden Retriever,tímido,2023-06-22,16,6,F
+316,Marchelle,Maine Coon,amigable,2023-06-11,10,7,F
+317,Chrystel,Persian,juguetón,2023-03-22,8,1,F
+318,Tandy,Labrador Retriever,amigable,2022-08-22,15,5,F
+319,Jonell,German Shepherd,agresivo,2023-05-14,17,1,F
+320,Bradford,Bulldog,agresivo,2022-12-10,1,1,M
+321,Yule,Poodle,tímido,2022-09-25,14,6,M
+322,Trefor,Maine Coon,amigable,2022-09-04,1,1,M
+323,Fletcher,Poodle,amigable,2023-04-28,15,3,M
+324,Even,Labrador Retriever,agresivo,2023-08-04,9,3,M
+325,Chic,Labrador Retriever,juguetón,2023-06-03,12,7,M
+326,Marleen,Poodle,territorial,2023-02-11,5,7,F
+327,Clovis,Golden Retriever,curioso,2023-01-07,4,3,F
+328,Renault,Golden Retriever,tímido,2023-01-15,5,1,M
+329,Claudetta,Labrador Retriever,amigable,2022-12-15,16,3,F
+330,Madison,Labrador Retriever,juguetón,2023-04-30,15,7,M
+331,Gerrilee,Maine Coon,amigable,2023-07-29,1,2,F
+332,Mikol,,tímido,2023-03-01,17,6,M
+333,Upton,Siamese,amigable,2023-04-01,12,6,M
+334,Benedict,Labrador Retriever,amigable,2023-04-18,3,5,M
+335,Gloriane,Poodle,amigable,2023-02-14,6,7,F
+336,Bartlet,,tímido,2023-02-08,15,5,M
+337,Granville,Labrador Retriever,juguetón,2023-07-02,5,6,M
+338,Lenore,,agresivo,2022-09-21,15,3,F
+339,Emilee,Maine Coon,territorial,2022-10-03,11,3,F
+340,Langston,Persian,curioso,2022-12-19,20,1,M
+341,Carlin,German Shepherd,tímido,2023-02-06,19,6,F
+342,Carolina,Maine Coon,amigable,2022-09-16,2,7,F
+343,Lyman,Bulldog,juguetón,2022-11-23,2,5,M
+344,Selia,German Shepherd,amigable,2023-06-14,20,7,F
+345,Nana,Labrador Retriever,tímido,2023-05-01,8,4,F
+346,Ignacio,Maine Coon,curioso,2023-04-27,13,7,M
+347,Barn,,territorial,2022-10-30,7,4,M
+348,Sari,Persian,tímido,2023-03-21,11,3,F
+349,Corbet,Labrador Retriever,territorial,2023-07-19,17,4,M
+350,Courtnay,Maine Coon,curioso,2023-01-08,3,2,F
+351,Fairlie,Labrador Retriever,juguetón,2022-09-07,14,1,M
+352,Ingeberg,Poodle,curioso,2023-04-01,11,2,F
+353,Gayelord,Labrador Retriever,juguetón,2022-09-27,17,3,M
+354,Shea,Labrador Retriever,territorial,2022-12-07,9,1,F
+355,Emlen,Golden Retriever,amigable,2022-12-12,19,3,M
+356,Corry,German Shepherd,curioso,2023-01-02,6,3,F
+357,Hilda,Poodle,juguetón,2023-04-18,10,7,F
+358,Pasquale,Labrador Retriever,amigable,2023-02-09,5,6,M
+359,West,,curioso,2022-12-22,19,2,M
+360,Frederica,Siamese,juguetón,2022-10-18,3,6,F
+361,Lucinda,,juguetón,2023-01-24,15,3,F
+362,Kristel,Siamese,curioso,2023-08-03,4,7,F
+363,Archibold,Poodle,tímido,2023-01-21,15,1,M
+364,Brod,,territorial,2023-06-29,18,4,M
+365,Keely,Maine Coon,tímido,2022-09-15,13,7,F
+366,Salvatore,Maine Coon,juguetón,2023-05-19,8,4,M
+367,Bucky,,agresivo,2023-05-05,14,7,M
+368,Tommi,Maine Coon,juguetón,2023-04-18,2,3,F
+369,Delainey,Poodle,tímido,2023-05-12,2,3,M
+370,Lynnette,,juguetón,2022-10-05,8,3,F
+371,Delbert,Bulldog,territorial,2023-02-14,11,5,M
+372,Rockwell,Labrador Retriever,agresivo,2023-04-02,18,5,M
+373,Gris,Bulldog,agresivo,2023-03-18,3,1,M
+374,Euphemia,Siamese,tímido,2022-12-20,19,3,F
+375,Brig,German Shepherd,curioso,2022-12-27,19,7,M
+376,Kayle,Poodle,curioso,2022-11-26,9,7,F
+377,Shelley,Poodle,territorial,2023-01-19,11,4,M
+378,Ivory,,amigable,2023-02-08,14,2,F
+379,Lynnett,Labrador Retriever,agresivo,2023-06-04,14,5,F
+380,Clementius,Labrador Retriever,amigable,2023-07-03,1,4,M
+381,Ingeberg,Bulldog,tímido,2023-04-23,15,5,F
+382,Tally,Poodle,territorial,2023-04-24,3,6,M
+383,Ford,,tímido,2022-09-26,7,3,M
+384,Elwira,Siamese,agresivo,2022-09-09,11,7,F
+385,Ardyce,Golden Retriever,territorial,2023-05-05,18,2,F
+386,Normie,Persian,curioso,2023-02-15,11,3,M
+387,Farrand,German Shepherd,amigable,2023-06-02,3,6,F
+388,Ignacio,,amigable,2023-04-04,1,5,M
+389,Sebastian,,tímido,2023-03-14,8,3,M
+390,Halie,Siamese,curioso,2023-04-29,0,2,F
+391,Dom,Persian,tímido,2023-03-25,4,2,M
+392,Jeffy,Labrador Retriever,curioso,2023-02-13,10,1,M
+393,Whitney,Siamese,tímido,2022-09-05,17,4,M
+394,Selia,,curioso,2022-10-16,4,4,F
+395,Davidde,Persian,tímido,2022-11-04,6,6,M
+396,Sandi,Siamese,tímido,2022-10-12,20,5,F
+397,Lucienne,,amigable,2022-11-13,17,7,F
+398,Rockwell,Maine Coon,tímido,2022-09-25,11,5,M
+399,Cathy,,juguetón,2023-05-01,1,2,F
+400,Nickolaus,Poodle,agresivo,2022-09-19,12,7,M
+401,Malvin,German Shepherd,amigable,2022-10-03,16,7,M
+402,Dulcine,Golden Retriever,amigable,2023-07-10,4,5,F
+403,Felicle,,territorial,2023-01-05,6,3,F
+404,Celeste,,territorial,2023-07-02,15,4,F
+405,Kelley,,agresivo,2022-09-07,1,4,M
+406,Curt,Labrador Retriever,juguetón,2022-11-20,20,2,M
+407,Isabel,Persian,juguetón,2022-08-19,6,4,F
+408,Bambi,,agresivo,2023-07-11,3,7,F
+409,Nady,Maine Coon,curioso,2023-02-06,14,6,F
+410,Robin,Siamese,amigable,2023-05-14,17,3,F
+411,Loise,,territorial,2023-07-20,18,2,F
+412,Halsey,Siamese,territorial,2023-07-19,9,4,M
+413,Giorgia,German Shepherd,territorial,2023-06-15,0,7,F
+414,Silvanus,Siamese,juguetón,2023-01-16,17,5,M
+415,Stavro,,tímido,2023-03-28,6,5,M
+416,Leah,Maine Coon,agresivo,2023-05-28,18,1,F
+417,Neville,,agresivo,2023-02-12,18,5,M
+418,Ted,Siamese,agresivo,2023-07-31,5,2,F
+419,Ursula,Persian,curioso,2022-12-24,9,5,F
+420,Ginni,German Shepherd,territorial,2022-12-07,17,4,F
+421,Florenza,Labrador Retriever,amigable,2023-05-08,0,7,F
+422,Cedric,Labrador Retriever,juguetón,2023-03-06,17,1,M
+423,Grange,Siamese,territorial,2023-03-28,1,2,M
+424,Craig,German Shepherd,territorial,2022-09-10,14,5,M
+425,Bertie,Poodle,agresivo,2023-04-02,11,6,F
+426,Briana,Siamese,territorial,2022-12-14,19,2,F
+427,Hali,,agresivo,2022-09-24,10,2,F
+428,Ham,Siamese,amigable,2022-11-17,6,4,M
+429,Byron,German Shepherd,juguetón,2023-03-14,7,4,M
+430,Gerda,Labrador Retriever,juguetón,2022-10-05,9,6,F
+431,Robina,Persian,agresivo,2023-05-18,18,2,F
+432,Agace,Golden Retriever,amigable,2023-01-14,9,1,F
+433,Willette,Poodle,tímido,2022-11-13,4,7,F
+434,Ashli,Bulldog,amigable,2023-06-26,15,4,F
+435,Brandea,German Shepherd,territorial,2023-01-27,10,1,F
+436,Fritz,,tímido,2023-04-22,10,4,M
+437,Mireille,Poodle,curioso,2022-09-14,19,3,F
+438,Lynnelle,Siamese,juguetón,2023-07-02,20,1,F
+439,Quillan,Bulldog,juguetón,2023-01-21,17,1,M
+440,Jacquenette,,agresivo,2023-05-01,1,6,F
+441,Berti,Labrador Retriever,agresivo,2023-04-17,20,7,F
+442,Whitby,Golden Retriever,amigable,2022-11-06,10,7,M
+443,Marjorie,,curioso,2023-03-24,8,7,F
+444,Enrika,Poodle,tímido,2022-11-14,19,6,F
+445,Donalt,Golden Retriever,territorial,2023-02-13,6,2,M
+446,Chen,,territorial,2023-02-24,9,5,M
+447,Ikey,,tímido,2023-02-23,0,4,M
+448,Arley,,tímido,2023-04-26,6,4,M
+449,Eugine,Golden Retriever,amigable,2023-03-22,8,4,F
+450,Barbabra,,amigable,2023-04-09,18,2,F
+451,Ailis,Labrador Retriever,agresivo,2023-03-14,11,3,F
+452,Torrin,Siamese,agresivo,2023-05-03,10,4,M
+453,Bordie,Labrador Retriever,agresivo,2023-07-26,1,3,M
+454,Rad,Maine Coon,agresivo,2023-01-13,4,7,M
+455,Hastie,Labrador Retriever,curioso,2023-03-01,0,3,M
+456,Harbert,Bulldog,territorial,2022-09-19,2,5,M
+457,Mickey,Bulldog,juguetón,2023-05-12,14,1,M
+458,Alasteir,,amigable,2023-08-05,11,7,M
+459,Lonny,Labrador Retriever,territorial,2023-01-31,8,6,M
+460,Celestine,Poodle,territorial,2022-11-23,11,2,F
+461,Caleb,Siamese,tímido,2022-12-09,20,5,M
+462,Tristan,Golden Retriever,territorial,2022-12-12,0,2,M
+463,Emelen,German Shepherd,territorial,2022-08-22,15,6,M
+464,Cassaundra,,tímido,2023-08-02,17,7,F
+465,Conrado,Poodle,curioso,2022-12-09,8,6,M
+466,Julianna,Persian,tímido,2022-12-29,10,1,F
+467,Libbi,Labrador Retriever,amigable,2022-08-23,12,3,F
+468,Tades,Poodle,curioso,2023-05-08,7,2,M
+469,Ole,,territorial,2022-12-11,20,1,M
+470,Ferne,,curioso,2022-10-16,12,5,F
+471,Ed,German Shepherd,territorial,2022-12-26,1,5,M
+472,Noel,,agresivo,2022-08-22,0,4,F
+473,Tabbi,Persian,territorial,2023-04-01,3,6,F
+474,Kalie,German Shepherd,agresivo,2022-10-19,15,3,F
+475,Geoffry,Golden Retriever,agresivo,2023-07-02,18,6,M
+476,Glenden,Labrador Retriever,agresivo,2022-09-13,3,1,M
+477,Carmine,Labrador Retriever,curioso,2023-05-14,3,1,F
+478,Crystie,German Shepherd,agresivo,2023-04-26,12,6,F
+479,Pavia,,curioso,2023-04-11,8,7,F
+480,Tabby,Maine Coon,curioso,2023-08-10,13,1,M
+481,Richart,Labrador Retriever,agresivo,2022-11-01,8,6,M
+482,Nigel,Maine Coon,juguetón,2022-12-28,12,7,M
+483,Meara,,tímido,2023-01-24,8,5,F
+484,Electra,Golden Retriever,amigable,2023-02-03,9,6,F
+485,Allard,Maine Coon,amigable,2023-06-23,9,3,M
+486,Toby,,juguetón,2022-10-03,9,6,M
+487,Herculie,Labrador Retriever,curioso,2023-01-28,20,1,M
+488,Lurlene,Persian,territorial,2022-09-22,5,1,F
+489,Sibel,Labrador Retriever,territorial,2022-11-17,8,2,F
+490,Armand,,tímido,2022-11-11,10,6,M
+491,Avram,Poodle,juguetón,2023-05-18,17,3,M
+492,Mia,Golden Retriever,tímido,2023-03-15,8,3,F
+493,Zita,Poodle,territorial,2023-06-01,17,1,F
+494,Barrett,Labrador Retriever,curioso,2023-03-07,12,7,M
+495,Moise,German Shepherd,juguetón,2023-06-10,0,3,M
+496,Giuseppe,Labrador Retriever,curioso,2023-04-13,8,4,M
+497,Jaclyn,Maine Coon,amigable,2023-01-13,0,3,F
+498,Brinn,Persian,agresivo,2023-03-13,11,4,F
+499,Kory,Siamese,tímido,2023-07-18,10,2,M
+500,Dorothee,Persian,juguetón,2022-11-26,13,7,F
